@@ -5,7 +5,7 @@ import Paper from '@material-ui/core/Paper';
 import Hidden from '@material-ui/core/Hidden';
 import withWidth from '@material-ui/core/withWidth';
 import Typography from '@material-ui/core/Typography';
-import compose from 'docs/src/modules/utils/compose';
+import compose from '../../../modules/utils/compose';
 
 const styles = theme => ({
   root: {
